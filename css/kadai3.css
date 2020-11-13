@@ -1,0 +1,32 @@
+h1{
+    color : #ff15ff;
+    font-size : 60p;
+    font-weight : normal;
+    font-family : "Impact";
+    text-align : center;
+    background-color : black;
+}
+
+h2{
+    color : #ff5050;
+    font-size : 60p;
+    font-weight : normal;
+    font-family : "Impact";
+    text-align : center;
+    background-color :aqua;
+}
+
+h3{
+    color : darkred;
+}
+
+p{
+    color : dimgray ;
+}
+
+
+body{
+    background-image : url(../images/BF5mappu2.jpg);
+    background-repeat : repeat-y;
+    background-attachment : fixed;
+}
