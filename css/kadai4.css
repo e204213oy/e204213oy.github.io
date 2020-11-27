@@ -1,0 +1,44 @@
+/*bluecolorクラスだけ装飾*/
+.bluecolor{
+    color:blue;
+}
+/*h1タグの中でもobakaというidのやつだけを装飾*/
+h1#obaka{
+    color : #80ffff;
+    font-size : 60p;
+    font-weight : normal;
+    font-family : "Impact";
+    text-align : center;
+    background-color : pink;
+}
+
+body{
+    background-image : url(../images/BF5mappu2.jpg);
+    background-repeat : repeat-y;
+    background-attachment : fixed;
+}
+
+h1#sakura{
+    color : #ff15ff;
+    font-size : 60p;
+    font-weight : normal;
+    font-family : "Impact";
+    text-align : center;
+    background-color : black;
+}
+h2#aho{
+    color : #703095;
+    font-size : 60p;
+    font-weight : normal;
+    font-family : "Impact";
+    text-align : center;
+    background-color : gainsboro;
+}
+h2#kuso{
+    color : #ff4020;
+    font-size : 60p;
+    font-weight : normal;
+    font-family : "Impact";
+    text-align : center;
+    background-color : chartreuse;
+}
